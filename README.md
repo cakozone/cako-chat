@@ -6,7 +6,7 @@ Reúna Twitch, YouTube, Kick e TikTok em uma sobreposição para jogos ou no OBS
 
 ## Downloads
 
-As versões são disponibilizadas em [Releases](https://github.com/cakozone/cako-chat/releases), com instalador, ZIP Windows, código-fonte correspondente e hashes SHA-256. A primeira versão está em preparação.
+As versões são disponibilizadas em [Releases](https://github.com/cakozone/cako-chat/releases), com instalador, ZIP Windows, código-fonte correspondente e hashes SHA-256. A versão 1.0.0 já está disponível para download.
 
 O código completo está no arquivo **Cako-Chat-1.0.0-Source.zip** anexado à versão. Os arquivos automáticos “Source code” do GitHub contêm apenas o conteúdo deste repositório de distribuição; utilize o ZIP de fonte nomeado acima para compilar o aplicativo.
 
@@ -24,7 +24,7 @@ Capturas dependem dos serviços das plataformas; disponibilidade, emotes, badges
 
 ## Código e licença
 
-Copyright (C) 2026 Ricardo Deon. AGPL-3.0-only, sem garantia. Veja LICENSE e os avisos das dependências incluídos no pacote. Para compilar, extraia o ZIP de fonte e execute com Node.js 24: npm ci, npm test e npm run package.
+Copyright (C) 2026 Ricardo Deon. AGPL-3.0-only, sem garantia. Veja LICENSE e os avisos das dependências incluídos no pacote. Para compilar, extraia o ZIP de fonte e execute com Node.js 24: `npm ci` e `npm run package`.
 
 ## Comunidade
 

@@ -6,15 +6,19 @@ Reúna Twitch, YouTube, Kick e TikTok em uma sobreposição para jogos ou no OBS
 
 ## Downloads
 
-As versões são disponibilizadas em [Releases](https://github.com/cakozone/cako-chat/releases), com instalador, ZIP Windows, código-fonte correspondente e hashes SHA-256. A versão 1.0.0 já está disponível para download.
+As versões são disponibilizadas em [Releases](https://github.com/cakozone/cako-chat/releases), com instalador, ZIP Windows, código-fonte correspondente e hashes SHA-256. A versão 1.1.0 já está disponível para download.
 
-O código completo está no arquivo **Cako-Chat-1.0.0-Source.zip** anexado à versão. Os arquivos automáticos “Source code” do GitHub contêm apenas o conteúdo deste repositório de distribuição; utilize o ZIP de fonte nomeado acima para compilar o aplicativo.
+O código completo está no arquivo **Cako-Chat-1.1.0-Source.zip** anexado à versão. Os arquivos automáticos “Source code” do GitHub contêm apenas o conteúdo deste repositório de distribuição; utilize o ZIP de fonte nomeado acima para compilar o aplicativo.
+
+A versão 1.1.0 inclui avisos de atualização, fotos de perfil, badges do TikTok e eventos de presentes e novos seguidores no TikTok automático.
 
 ## Instalação
 
 Use o instalador ou extraia todo o ZIP Windows e abra **Cako Multichat.exe**. O nome interno anterior foi preservado por compatibilidade. Feche a versão anterior antes de atualizar; as preferências ficam no perfil do Windows.
 
-A versão 1.0.0 não possui assinatura digital própria e pode apresentar aviso do Windows. Não desative antivírus ou firewall.
+A versão 1.1.0 não possui assinatura digital própria e pode apresentar aviso do Windows. Não desative antivírus ou firewall.
+
+A partir da versão 1.1.0, o aplicativo avisa quando há uma versão nova e permite consultar manualmente nos Ajustes. A instalação continua manual. Quem usa a 1.0.0 precisa instalar a 1.1.0 uma vez para receber os próximos avisos.
 
 ## Uso
 
